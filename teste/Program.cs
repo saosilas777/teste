@@ -8,6 +8,7 @@ namespace teste
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("shit mother foca");
+            Console.WriteLine("testando github");
         }
     }
 }
